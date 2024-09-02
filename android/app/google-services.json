@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952805310416",
+    "project_id": "md-brew-crew-3a97e",
+    "storage_bucket": "md-brew-crew-3a97e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952805310416:android:9eaf17e9a4f276cd4fc3d5",
+        "android_client_info": {
+          "package_name": "com.md.brew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDntfEpe1ciZfy5ou679hrX73d8AuLXEbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
